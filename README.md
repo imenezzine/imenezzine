@@ -9,4 +9,4 @@ I'm a PHP/Symfony Developer passionate about web development, open-source projec
 - 🐘 I ❤️ PHP
 - <img src="https://www.vectorlogo.zone/logos/symfony/symfony-icon.svg" alt="Symfony Logo" width="20" height="20"> I 💜 Symfony
 - 📢 Speaker
-- 🎙️ Host of the [Café Tech](https://www.youtube.com/@Caf%C3%A9TechavecImen) podcast with Imen ☕ — where we chat with amazing guests about all things tech ☕
+- 🎙️ Host of the [Café Tech avec Imen](https://www.youtube.com/@Caf%C3%A9TechavecImen) podcast ☕ — where we chat with amazing guests about all things tech ☕
